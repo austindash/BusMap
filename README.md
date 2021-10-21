@@ -14,4 +14,4 @@ In the future I plan to add aditional bus routes from MIT and a darkmode for the
 License Info: I do not own rights to this program. Most of this program is coded and distributed according to MIT license.
 If you use this code in any projects please inculde MIT and MapBox and/or contact them for additional licensing information.
 
-<img src="map.png" width='300'/>
+<img src="map.png" width='400'/>
