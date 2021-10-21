@@ -6,7 +6,7 @@ This project displays a map of Boston and shows every bus stop between MIT and H
 A loop is used to mark each stop, in order from MIT and one at  a time, at an interval of 3 seconds.
 I added style to the background and button.
 
-How to run? Download all files from this repository into a single folder then drag and drop the html file
+How to run? Download all files from my GitHub repository into a single folder then drag and drop the html file
 into your browser of choice.
 
 In the future I plan to add aditional bus routes from MIT and a darkmode for the map.
