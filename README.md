@@ -12,7 +12,7 @@ into your browser of choice.
 In the future I plan to add aditional bus routes from MIT and a darkmode for the map.
 
 This program is coded and distributed according to MIT license.
-MIT License
+MIT License:
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 <img src="map.png" width='400'/>
